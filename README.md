@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AngelDavidStudios
 - 👀 I’m interested in world Programing
-- 🌱 I’m currently learning Python & Swift
+- 🌱 I’m currently learning C# & Swift
 - 💞️ I’m looking to collaborate on my website
 - 📫 My Portafolio web is: https://www.instagram.com/angeldavidstudios/
 
