@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="370" src="https://scontent.fuio5-1.fna.fbcdn.net/v/t39.30808-6/301505747_389322600053085_868074876398109486_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=Uq8MV_V_rE8Q7kNvgHAeLs0&_nc_oc=Adge-TpwW58HFUo1bQAHPOADE0nOeUTLv1-LjmibBofmyDzGVdQzem8QEZF3eNuskFc&_nc_zt=23&_nc_ht=scontent.fuio5-1.fna&_nc_gid=AyrLQd9tCTsJfBjtyhYpj0F&oh=00_AYDrv8VH3A1kNjVj2NUnjBfRL9ja_h7LRDR_Nroyrdw5pw&oe=67BA975D"  />
+  <img height="370" src="https://github.com/AngelDavidStudios/AngelDavidStudios/blob/main/assets/channels4_banner.jpg"  />
 </div>
 
 ###
